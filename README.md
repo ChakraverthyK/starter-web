@@ -5,3 +5,7 @@ This repository is for showing how Git and GitHub work. Adding a line for rebasi
 ## Purpose
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+2020 Git Training. All rights reserved.
